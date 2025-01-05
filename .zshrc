@@ -42,7 +42,7 @@ ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE="fg=#5d6084, bold"
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 #eza
-alias ls="eza --icons=always --color=always --long --no-filesize --no-time --no-user --no-permissions "
+alias ls="eza --icons=always --color=always --no-filesize --no-time --no-user --no-permissions "
 
 # zoxide
 eval "$(zoxide init zsh)"
